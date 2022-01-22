@@ -1,0 +1,3 @@
+today is Jan 22 2022
+I am learning git push, git clone, git pull, etc
+
