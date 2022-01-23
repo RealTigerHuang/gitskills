@@ -1,3 +1,6 @@
 today is Jan 22 2022
 I am learning git push, git clone, git pull, etc
 and I need to note it
+
+today is 2022/1/23
+I am studying git pull
