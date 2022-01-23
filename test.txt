@@ -8,3 +8,5 @@ but my room is so dark
 I have to turn on the light
 here we go
 wow, good enough now
+
+creating a new branch is quick & simple
