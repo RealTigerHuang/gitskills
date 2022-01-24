@@ -12,3 +12,4 @@ wow, good enough now
 creating a new branch is very quick and very simple
 
 branch main modify
+creating branch dev
